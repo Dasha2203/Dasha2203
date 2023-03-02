@@ -1,5 +1,14 @@
 ### Hi there 👋
+# I'm a Frontend developer 👩‍💻
 
+My projects using ***HTML, CSS, JavaScript***:
+1. Landing https://dasha2203.github.io/coffetto/
+2. Landing https://dasha2203.github.io/layouts/tourism/
+3. Delivery service layout https://dasha2203.github.io/-layouts/delivery/
+4. Layout SurfBoard https://dasha2203.github.io/portfolio/surfboard/
+
+My Projects using **React**:
+1. Deploy: https://genuine-caramel-2348f9.netlify.app/
 <!--
 **Dasha2203/Dasha2203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
